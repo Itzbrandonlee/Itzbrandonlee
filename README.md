@@ -38,4 +38,4 @@ I'm open to networking, opportunities, collaborations or even a good teaching le
 <a href="https://www.linkedin.com/in/brandon-zavala"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
-![Snake animation](https://github.com/Itzbrandonlee/Itzbrandonlee/blob/output/github-contribution-grid-snake.svg)
+
