@@ -18,7 +18,7 @@ New bootcamp graduate and since I completed it I have dove into networking with 
 <h2 >Skills and Technologies</h2><br />
  
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,aws,bootstrap,cpp,css,docker,git,html,js,maven,netlify,nodejs,ps,postgres,postman,py,react,spring,vscode,vue&theme=dark&perline=10" />
+    <img src="https://skillicons.dev/icons?i=java,aws,bootstrap,cpp,css,jquery,git,html,js,maven,netlify,nodejs,ps,postgres,postman,py,react,spring,vscode,vue&theme=dark&perline=10" />
   </a>
 <br />
 <br />
