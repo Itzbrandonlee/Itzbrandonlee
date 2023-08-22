@@ -30,7 +30,7 @@ New bootcamp graduate and since I completed it I have dove into networking with 
 
 
 
-## Dont forget to React Out! 📱<br />
+## Dont forget to reach out! 📱<br />
 
 I'm open to networking, opportunities, collaborations or even a good teaching lesson. Thats what its all about right?! <br />
 <br />
